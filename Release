@@ -1,0 +1,11 @@
+Origin: Saiful's Repo
+Label: saifulapm
+Suite: stable
+Version: 1.0
+Codename: saifulapm
+Architecture: iphoneos-arm
+Components: main
+Description: Saiful's Tweaks
+MD5Sum:
+ 21b82f6a08045f19794dc957791eec09 547 Packages
+ 0896a0bdb1037d717f1dfc3a76d0c624 399 Packages.bz2

@@ -1,0 +1,15 @@
+Package: com.saifulapm.pipenabler
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Tweaks
+Maintainer: Saiful
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./com.saifulapm.pipenabler_0.2_iphoneos-arm.deb
+Size: 51330
+MD5sum: 123bf8b4024833a599de4a48eb613550
+Homepage: http://twitter.com/saifulapm
+Description: Enabler Picture In Picture Feature
+Name: PIPEnabler
+Author: julioverne
+Icon: file:///Library/PreferenceBundles/PIPEnablerSettings.bundle/icon@2x.png
+Depiction: http://saifulapm.github.io/description.html?id=com.saifulapm.pipenabler
