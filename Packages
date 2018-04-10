@@ -2,11 +2,11 @@ Package: com.saifulapm.pipenabler
 Architecture: iphoneos-arm
 Version: 0.2
 Section: Tweaks
-Maintainer: Saiful
+Maintainer: Saiful Islam
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./com.saifulapm.pipenabler_0.2_iphoneos-arm.deb
-Size: 51480
-MD5sum: 6f803bc5ccdbaf322d6966161a64483f
+Size: 51224
+MD5sum: 0648fefdc32607c80e9e1b7746545c7f
 Homepage: http://twitter.com/saifulapm
 Description: Enabler Picture In Picture Feature
 Name: PIPEnabler
