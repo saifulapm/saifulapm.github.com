@@ -13,3 +13,18 @@ Name: PIPEnabler
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/PIPEnablerSettings.bundle/icon@2x.png
 Depiction: http://saifulapm.github.io/description.html?id=com.saifulapm.pipenabler
+
+Package: com.saifulapm.lockpluspro
+Architecture: iphoneos-arm
+Version: 0.7
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./com.saifulapm.lockpluspro_0.7_iphoneos-arm.deb
+Size: 10593372
+MD5sum: ce01325754b53ddb94b5faa87e91519f
+Homepage: http://twitter.com/saifulapm
+Description: The ultimate lock screen tweak!
+Name: LockPlus Pro (Cracked Version)
+Maintainer: Saiful <saiful.apm@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: http://saifulapm.github.io/description.html?id=com.saifulapm.lockpluspro
