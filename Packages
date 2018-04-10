@@ -5,8 +5,8 @@ Section: Tweaks
 Maintainer: Saiful Islam
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./com.saifulapm.pipenabler_0.2_iphoneos-arm.deb
-Size: 51224
-MD5sum: 0648fefdc32607c80e9e1b7746545c7f
+Size: 35552
+MD5sum: 36e2c9cadcb99b3c6c06de33e4fee7eb
 Homepage: http://twitter.com/saifulapm
 Description: Enabler Picture In Picture Feature
 Name: PIPEnabler
